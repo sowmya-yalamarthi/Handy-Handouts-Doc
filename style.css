@@ -1,0 +1,21 @@
+*{
+    background-color: darkseagreen;
+}
+
+.title{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    text-align: center;
+}
+
+p{
+    color: darkred;
+    font-size: 18px;
+
+}
+
+.footer{
+    font-weight: bold;
+    padding: 80px;
+}
